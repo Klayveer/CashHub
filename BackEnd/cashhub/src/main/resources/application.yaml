@@ -1,0 +1,13 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: adminpassword
+logging:
+  level:
+    com:
+      cashub:
+        cashhubbackend:
+          cashub: DEBUG
+stripe:
+  apiKey: sk_test_51PPDUwB6zFwZkiVeGPab2QN9BjpydSEwm6DqI2LJTbLX4mDZrXMBRsuL24YlzvaK7avtVtwAmZh8bSaVEq2CQDPA00zIFceYMc
